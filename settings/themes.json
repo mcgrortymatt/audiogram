@@ -18,6 +18,34 @@
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
+    
+  },
+ "Commexis Square": {
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "captionTop": 20,
+    "captionBottom": 300,
+    "captionLeft": 20,
+    "captionRight": 620,
+	"captionColor": "ff6d10",
+	"wavetop": 450,
+	"wavebottom": 600,
+	"pattern": "curve",
+	"waveColor": "#ff6d10",
+    "backgroundImage": "commexissquarelogo.png"
+	
+  },
+  "Commexis Twitter": {
+	"captionColor": "ff6d10",
+	"waveColor": "#ff6d10",
+	"pattern": "curve",
+	"captionTop": 60,
+	"captionBottom": 250
+	"waveTop": 500,
+	"waveBottom": 675,
+    "backgroundImage": "commexislogo.png"
+    
   },
   "Neon": {
     "backgroundColor": "#556270",
